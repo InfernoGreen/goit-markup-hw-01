@@ -55,13 +55,14 @@ nav li {
   letter-spacing: 0.02em;
   color: var(--body-color);
   font-style: normal;
-  
+  text-decoration: none;
 }
 .address_link:hover {
   color: #404BBF;
 }
 address ul{
   list-style:none;
+  
 }
 
 .hero {
