@@ -12,6 +12,7 @@
   --hover-color: #404BBF;
     /*iris* logo, btn*/
     --btn-color: #4D5AE5;
+    --hero-bgc: #2E2F42;
 }
 body {
   font-family:'Roboto', sans-serif;
@@ -64,7 +65,7 @@ address ul{
 }
 
 .hero {
-background-color:#2E2F42 ;
+background-color: var(--hero-bgc) ;
 }
 .herotitle {
 font-size: 56px;
